@@ -1,3 +1,47 @@
+Chat published at : 
+
+ 
+
+https://chat-al3x.netlify.app/ 
+
+ 
+
+=============================================== 
+
+ 
+
+https://www.youtube.com/watch?v=jcOKU9f86XE&ab_channel=JavaScriptMastery 
+
+ 
+
+ 
+
+Npx create-react-app chat_app 
+
+ 
+
+ Npm install @ant-design/icons axios react-chat-engine 
+
+ 
+
+============================================== 
+
+ 
+
+http://chatengine.io/ 
+
+ 
+
+============================================== 
+
+ 
+
+Credentials created in chatengine.io 
+
+ 
+===============================================
+ 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
